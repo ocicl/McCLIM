@@ -1,10 +1,9 @@
 * McCLIM
 
+An implementation of the Common Lisp Interface Manager, version II.
 
-
-|---------+-------------------------------------------|
-| source  | git:https://codeberg.org/McCLIM/McCLIM.git   |
-| commit  |   |
-| systems | McCLIM |
-|---------+-------------------------------------------|
-
+|---------+--------------------------------------------|
+| source  | git:https://codeberg.org/McCLIM/McCLIM.git |
+| commit  | 6ab1ab301d                                 |
+| systems | mcclim clim-lisp                           |
+|---------+--------------------------------------------|

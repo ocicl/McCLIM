@@ -5,6 +5,6 @@ An implementation of the Common Lisp Interface Manager, version II.
 
 |---------+--------------------------------------------|
 | source  | git:https://codeberg.org/McCLIM/McCLIM.git |
-| commit  | 82601ad4                                   |
+| commit  | 19634853                                   |
 | systems | mcclim clim-lisp                           |
 |---------+--------------------------------------------|
